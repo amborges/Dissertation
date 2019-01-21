@@ -1,0 +1,7 @@
+Lista das versões do AOM conforme a sua agressividade
+AG - Definição
+0  - Nenhuma. AOM original
+1  - Leve. AOM que pode testar modos ATÉ DL+1
+2  - Mediana. AOM que pode testar modos ATÉ DL+0
+3  - Agressiva. AOM que pode testar todos os modos DE DL-1 ATÉ DL+1
+4  - Super agressiva. AOM que só pode testar todos os modos EM DL+0

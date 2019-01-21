@@ -1,0 +1,45 @@
+Codec: AOMedia Project AV1 Encoder v1.0.0
+Source file: ../HEVC/Netflix_BoxingPractice_4096x2160_60fps_10bit_420_60f/hevcDecode.yuv File Type: RAW Format: I42016
+Destination file: webm/av1_0.webm
+Coding path: HBD
+Encoder parameters:
+    g_usage                      = 0
+    g_threads                    = 1
+    g_profile                    = 0
+    g_w                          = 4096
+    g_h                          = 2160
+    g_bit_depth                  = 10
+    g_input_bit_depth            = 10
+    g_timebase.num               = 1
+    g_timebase.den               = 60
+    g_error_resilient            = 0
+    g_pass                       = 0
+    g_lag_in_frames              = 0
+    large_scale_tile             = 0
+    rc_dropframe_thresh          = 0
+    rc_resize_mode               = 0
+    rc_resize_denominator        = 8
+    rc_resize_kf_denominator     = 8
+    rc_superres_mode             = 0
+    rc_superres_denominator      = 8
+    rc_superres_kf_denominator   = 8
+    rc_superres_qthresh          = 63
+    rc_superres_kf_qthresh       = 63
+    rc_end_usage                 = 3
+    rc_target_bitrate            = 256
+    rc_min_quantizer             = 0
+    rc_max_quantizer             = 63
+    rc_undershoot_pct            = 25
+    rc_overshoot_pct             = 25
+    rc_buf_sz                    = 6000
+    rc_buf_initial_sz            = 4000
+    rc_buf_optimal_sz            = 5000
+    rc_2pass_vbr_bias_pct        = 50
+    rc_2pass_vbr_minsection_pct  = 0
+    rc_2pass_vbr_maxsection_pct  = 2000
+    fwd_kf_enabled               = 0
+    kf_mode                      = 1
+    kf_min_dist                  = 1000
+    kf_max_dist                  = 1000
+Pass 1/2 frame    1/0          0B       0 us 0.00 fpm [ETA  unknown] [KPass 1/2 frame    2/1        192B  772039 us 2.59 fps [ETA  0:00:45] [KPass 1/2 frame    3/2        384B 4815744 us 37.38 fpm [ETA  0:00:48] [KPass 1/2 frame    4/3        576B   10550 ms 22.75 fpm [ETA  0:00:53] [KPass 1/2 frame    5/4        768B   16150 ms 18.57 fpm [ETA  0:00:57] [KPass 1/2 frame    6/5        960B   21976 ms 16.38 fpm [ETA  0:01:02] [KPass 1/2 frame    7/6       1152B   27760 ms 15.13 fpm [ETA  0:01:08] [KPass 1/2 frame    8/7       1344B   33559 ms 14.30 fpm [ETA  0:01:13] [KPass 1/2 frame    9/8       1536B   39344 ms 13.73 fpm [ETA  0:01:19] [KPass 1/2 frame   10/9       1728B   45228 ms 13.27 fpm [ETA  0:01:25] [KPass 1/2 frame   11/10      1920B   51079 ms 12.92 fpm [ETA  0:01:31] [KPass 1/2 frame   12/11      2112B   56943 ms 12.64 fpm [ETA  0:01:37] [KPass 1/2 frame   13/12      2304B   62736 ms 12.43 fpm [ETA  0:01:43] [KPass 1/2 frame   14/13      2496B   68582 ms 12.25 fpm [ETA  0:01:50] [KPass 1/2 frame   15/14      2688B   74449 ms 12.09 fpm [ETA  0:01:55] [KPass 1/2 frame   16/15      2880B   80296 ms 11.96 fpm [ETA  0:02:01] [KPass 1/2 frame   17/16      3072B   86103 ms 11.85 fpm [ETA  0:02:07] [KPass 1/2 frame   18/17      3264B   92111 ms 11.72 fpm [ETA  0:02:12] [KPass 1/2 frame   19/18      3456B   98098 ms 11.62 fpm [ETA  0:02:16] [KPass 1/2 frame   20/19      3648B  103949 ms 11.54 fpm [ETA  0:02:20] [KPass 1/2 frame   21/20      3840B  109834 ms 11.47 fpm [ETA  0:02:24] [KPass 1/2 frame   22/21      4032B  115712 ms 11.41 fpm [ETA  0:02:27] [KPass 1/2 frame   23/22      4224B  121532 ms 11.36 fpm [ETA  0:02:29] [KPass 1/2 frame   24/23      4416B  127354 ms 11.31 fpm [ETA  0:02:31] [KPass 1/2 frame   25/24      4608B  133178 ms 11.26 fpm [ETA  0:02:32] [KPass 1/2 frame   26/25      4800B  139072 ms 11.22 fpm [ETA  0:02:33] [KPass 1/2 frame   27/26      4992B  144983 ms 11.17 fpm [ETA  0:02:33] [KPass 1/2 frame   28/27      5184B  150830 ms 11.14 fpm [ETA  0:02:33] [KPass 1/2 frame   29/28      5376B  156623 ms 11.11 fpm [ETA  0:02:32] [KPass 1/2 frame   30/29      5568B  162458 ms 11.08 fpm [ETA  0:02:30] [KPass 1/2 frame   31/30      5760B  168298 ms 11.05 fpm [ETA  0:02:28] [KPass 1/2 frame   32/31      5952B  174113 ms 11.03 fpm [ETA  0:02:25] [KPass 1/2 frame   33/32      6144B  179968 ms 11.00 fpm [ETA  0:02:22] [KPass 1/2 frame   34/33      6336B  186208 ms 10.96 fpm [ETA  0:02:19] [KPass 1/2 frame   35/34      6528B  192743 ms 10.90 fpm [ETA  0:02:16] [KPass 1/2 frame   36/35      6720B  198549 ms 10.88 fpm [ETA  0:02:12] [KPass 1/2 frame   37/36      6912B  204340 ms 10.86 fpm [ETA  0:02:09] [KPass 1/2 frame   38/37      7104B  210164 ms 10.85 fpm [ETA  0:02:05] [KPass 1/2 frame   39/38      7296B  215944 ms 10.84 fpm [ETA  0:02:00] [KPass 1/2 frame   40/39      7488B  221749 ms 10.82 fpm [ETA  0:01:56] [KPass 1/2 frame   41/40      7680B  227496 ms 10.81 fpm [ETA  0:01:51] [KPass 1/2 frame   42/41      7872B  233378 ms 10.80 fpm [ETA  0:01:46] [KPass 1/2 frame   43/42      8064B  239277 ms 10.78 fpm [ETA  0:01:41] [KPass 1/2 frame   44/43      8256B  245197 ms 10.77 fpm [ETA  0:01:36] [KPass 1/2 frame   45/44      8448B  251033 ms 10.76 fpm [ETA  0:01:30] [KPass 1/2 frame   46/45      8640B  256899 ms 10.74 fpm [ETA  0:01:25] [KPass 1/2 frame   47/46      8832B  262677 ms 10.74 fpm [ETA  0:01:20] [KPass 1/2 frame   48/47      9024B  268490 ms 10.73 fpm [ETA  0:01:14] [KPass 1/2 frame   49/48      9216B  274225 ms 10.72 fpm [ETA  0:01:08] [KPass 1/2 frame   50/49      9408B  280045 ms 10.71 fpm [ETA  0:01:03] [KPass 1/2 frame   51/50      9600B  285976 ms 10.70 fpm [ETA  0:00:57] [KPass 1/2 frame   52/51      9792B  291775 ms 10.69 fpm [ETA  0:00:51] [KPass 1/2 frame   53/52      9984B  297548 ms 10.69 fpm [ETA  0:00:45] [KPass 1/2 frame   54/53     10176B  303349 ms 10.68 fpm [ETA  0:00:40] [KPass 1/2 frame   55/54     10368B  309090 ms 10.68 fpm [ETA  0:00:34] [KPass 1/2 frame   56/55     10560B  314868 ms 10.67 fpm [ETA  0:00:28] [KPass 1/2 frame   57/56     10752B  320685 ms 10.66 fpm [ETA  0:00:22] [KPass 1/2 frame   58/57     10944B  326593 ms 10.66 fpm [ETA  0:00:17] [KPass 1/2 frame   59/58     11136B  332476 ms 10.65 fpm [ETA  0:00:11] [KPass 1/2 frame   60/59     11328B  338350 ms 10.64 fpm [ETA  0:00:05] [K[KPass 1/2 frame   60/61     11712B    1561b/f   93660b/s  344185 ms (0.17 fps)[K
+Pass 2/2 frame    1/0          0B  344185 ms 0.17 fpm [ETA  unknown] 54.104 53.513 55.800 55.406  684167F[KPass 2/2 frame    2/1     684167B 1949610 ms 0.06 fpm [ETA  unknown] 51.561 50.669 54.474 53.956   38182F[KPass 2/2 frame    3/2     722349B 2467776 ms 0.07 fpm [ETA  unknown] 

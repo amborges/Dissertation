@@ -1,0 +1,15 @@
+objects/SyntaxElementWriter.r.o: \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.cpp \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComRom.h
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.cpp :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComRom.h :

@@ -1,0 +1,1080 @@
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME  1)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	0	768	704	320	0	0
+DL2	0	2112	21760	9824	160	0
+DL3	0	944	15600	18144	176	0
+DL4	0	528	17744	31968	2048	80
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME  1)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	0.00%	42.86%	39.29%	17.86%	0.00%	0.00%
+DL2	0.00%	6.24%	64.27%	29.02%	0.47%	0.00%
+DL3	0.00%	2.71%	44.75%	52.04%	0.50%	0.00%
+DL4	0.00%	1.01%	33.88%	61.04%	3.91%	0.15%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME  2)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	1024	3072	3904	688	16	0
+DL2	704	21532	16672	5108	16	0
+DL3	240	22166	20134	4104	156	0
+DL4	80	7520	10448	5240	56	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME  2)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	11.76%	35.29%	44.85%	7.90%	0.18%	0.00%
+DL2	1.60%	48.90%	37.86%	11.60%	0.04%	0.00%
+DL3	0.51%	47.36%	43.02%	8.77%	0.33%	0.00%
+DL4	0.34%	32.21%	44.76%	22.45%	0.24%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME  3)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	0	6464	1216	0	0	0
+DL2	1792	23104	16000	2912	32	0
+DL3	1152	24204	23860	3968	48	0
+DL4	128	8004	7996	1904	96	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME  3)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	0.00%	84.17%	15.83%	0.00%	0.00%	0.00%
+DL2	4.09%	52.70%	36.50%	6.64%	0.07%	0.00%
+DL3	2.16%	45.47%	44.82%	7.45%	0.09%	0.00%
+DL4	0.71%	44.15%	44.11%	10.50%	0.53%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME  4)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	2048	4864	512	0	0	0
+DL2	2752	28480	19936	1936	16	0
+DL3	2352	20448	20944	4320	32	0
+DL4	464	4768	5872	3104	32	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME  4)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	27.59%	65.52%	6.90%	0.00%	0.00%	0.00%
+DL2	5.18%	53.61%	37.53%	3.64%	0.03%	0.00%
+DL3	4.89%	42.51%	43.55%	8.98%	0.07%	0.00%
+DL4	3.26%	33.48%	41.24%	21.80%	0.22%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME  5)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	2944	4744	3000	64	0	0
+DL2	14464	24328	23032	1840	16	0
+DL3	6096	11672	17464	4480	16	0
+DL4	688	2336	3408	2208	80	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME  5)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	27.38%	44.12%	27.90%	0.60%	0.00%	0.00%
+DL2	22.71%	38.20%	36.17%	2.89%	0.03%	0.00%
+DL3	15.34%	29.38%	43.96%	11.28%	0.04%	0.00%
+DL4	7.89%	26.79%	39.08%	25.32%	0.92%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME  6)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	4352	12288	4800	64	0	0
+DL2	13184	25408	24512	2880	0	0
+DL3	4080	9792	13040	3296	48	0
+DL4	848	1472	1808	992	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME  6)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	20.24%	57.14%	22.32%	0.30%	0.00%	0.00%
+DL2	19.98%	38.51%	37.15%	4.36%	0.00%	0.00%
+DL3	13.48%	32.36%	43.10%	10.89%	0.16%	0.00%
+DL4	16.51%	28.66%	35.20%	19.31%	0.31%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME  7)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	12800	24064	11840	192	0	0
+DL2	9280	24184	19400	1728	0	0
+DL3	1424	4608	7424	1744	0	0
+DL4	560	1600	1408	624	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME  7)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	26.18%	49.21%	24.21%	0.39%	0.00%	0.00%
+DL2	17.00%	44.30%	35.54%	3.17%	0.00%	0.00%
+DL3	9.37%	30.32%	48.84%	11.47%	0.00%	0.00%
+DL4	13.36%	38.17%	33.59%	14.89%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME  8)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	19008	36740	17592	132	0	0
+DL2	2496	11584	18176	1856	0	0
+DL3	832	2144	6464	1824	16	0
+DL4	640	1120	1556	676	24	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME  8)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	25.87%	50.01%	23.94%	0.18%	0.00%	0.00%
+DL2	7.32%	33.96%	53.28%	5.44%	0.00%	0.00%
+DL3	7.38%	19.01%	57.30%	16.17%	0.14%	0.00%
+DL4	15.94%	27.89%	38.75%	16.83%	0.60%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME  9)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	21368	20488	5248	0	0	0
+DL2	9024	18232	20424	1328	16	0
+DL3	1456	3664	11248	3696	80	0
+DL4	656	1648	2576	1696	32	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME  9)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	45.36%	43.50%	11.14%	0.00%	0.00%	0.00%
+DL2	18.41%	37.19%	41.66%	2.71%	0.03%	0.00%
+DL3	7.23%	18.19%	55.84%	18.35%	0.40%	0.00%
+DL4	9.93%	24.94%	38.98%	25.67%	0.48%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 10)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	19200	34048	20480	512	0	0
+DL2	2304	9600	21952	2912	32	0
+DL3	0	1664	5760	2112	16	0
+DL4	0	256	1472	544	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 10)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	25.86%	45.86%	27.59%	0.69%	0.00%	0.00%
+DL2	6.26%	26.09%	59.65%	7.91%	0.09%	0.00%
+DL3	0.00%	17.42%	60.30%	22.11%	0.17%	0.00%
+DL4	0.00%	11.19%	64.34%	23.78%	0.70%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 11)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	15296	38400	15424	240	16	0
+DL2	3072	13432	18952	1696	32	0
+DL3	640	2640	6800	1920	64	0
+DL4	640	1136	1712	704	64	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 11)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	22.05%	55.35%	22.23%	0.35%	0.02%	0.00%
+DL2	8.26%	36.12%	50.97%	4.56%	0.09%	0.00%
+DL3	5.31%	21.88%	56.37%	15.92%	0.53%	0.00%
+DL4	15.04%	26.69%	40.23%	16.54%	1.50%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 12)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	14720	14208	2240	64	0	0
+DL2	8256	22656	21632	2176	0	0
+DL3	1888	6760	14984	4720	32	0
+DL4	608	2192	3648	2016	80	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 12)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	47.13%	45.49%	7.17%	0.20%	0.00%	0.00%
+DL2	15.09%	41.40%	39.53%	3.98%	0.00%	0.00%
+DL3	6.65%	23.82%	52.79%	16.63%	0.11%	0.00%
+DL4	7.12%	25.66%	42.70%	23.60%	0.94%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 13)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	6512	16208	5184	0	0	0
+DL2	12480	21760	27712	1792	0	0
+DL3	2864	5796	11660	4368	16	0
+DL4	768	1116	2644	1872	128	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 13)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	23.34%	58.08%	18.58%	0.00%	0.00%	0.00%
+DL2	19.58%	34.14%	43.47%	2.81%	0.00%	0.00%
+DL3	11.59%	23.46%	47.20%	17.68%	0.06%	0.00%
+DL4	11.76%	17.10%	40.50%	28.68%	1.96%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 14)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	7424	32512	13696	128	0	0
+DL2	10560	17408	19072	2560	0	0
+DL3	2352	3264	6816	2032	16	0
+DL4	1168	1088	1952	832	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 14)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	13.81%	60.48%	25.48%	0.24%	0.00%	0.00%
+DL2	21.29%	35.10%	38.45%	5.16%	0.00%	0.00%
+DL3	16.24%	22.54%	47.07%	14.03%	0.11%	0.00%
+DL4	23.17%	21.59%	38.73%	16.51%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 15)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	20600	32136	16576	320	0	0
+DL2	7040	11640	18056	2432	0	0
+DL3	752	1968	5936	1584	0	0
+DL4	656	1296	1488	384	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 15)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	29.58%	46.15%	23.81%	0.46%	0.00%	0.00%
+DL2	17.97%	29.72%	46.10%	6.21%	0.00%	0.00%
+DL3	7.34%	19.22%	57.97%	15.47%	0.00%	0.00%
+DL4	17.08%	33.75%	38.75%	10.00%	0.42%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 16)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	26616	30216	9280	192	0	0
+DL2	8192	13496	17800	1408	0	0
+DL3	1536	2064	5408	2080	0	0
+DL4	1088	1072	1312	1072	48	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 16)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	40.14%	45.57%	14.00%	0.29%	0.00%	0.00%
+DL2	20.03%	33.00%	43.53%	3.44%	0.00%	0.00%
+DL3	13.85%	18.61%	48.77%	18.76%	0.00%	0.00%
+DL4	23.69%	23.34%	28.57%	23.34%	1.05%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 17)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	14592	29440	4480	128	0	0
+DL2	10304	19392	20800	1344	0	0
+DL3	1328	3936	8416	3360	16	0
+DL4	656	1504	1824	1280	80	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 17)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	30.00%	60.53%	9.21%	0.26%	0.00%	0.00%
+DL2	19.88%	37.41%	40.12%	2.59%	0.00%	0.00%
+DL3	7.79%	23.08%	49.34%	19.70%	0.09%	0.00%
+DL4	12.28%	28.14%	34.13%	23.95%	1.50%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 18)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	16896	40960	20672	320	0	0
+DL2	2432	9792	16768	2304	0	0
+DL3	368	2336	4576	1664	0	0
+DL4	272	1696	1376	448	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 18)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	21.43%	51.95%	26.22%	0.41%	0.00%	0.00%
+DL2	7.77%	31.29%	53.58%	7.36%	0.00%	0.00%
+DL3	4.11%	26.12%	51.16%	18.60%	0.00%	0.00%
+DL4	7.17%	44.73%	36.29%	11.81%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 19)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	7168	44032	23936	128	0	0
+DL2	2880	11520	19328	1472	0	0
+DL3	192	480	5952	3024	48	0
+DL4	0	32	1664	1008	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 19)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	9.52%	58.50%	31.80%	0.17%	0.00%	0.00%
+DL2	8.18%	32.73%	54.91%	4.18%	0.00%	0.00%
+DL3	1.98%	4.95%	61.39%	31.19%	0.50%	0.00%
+DL4	0.00%	1.18%	61.18%	37.06%	0.59%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 20)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	3072	4352	4992	128	0	0
+DL2	5632	15616	14656	2864	80	0
+DL3	4128	11968	12576	2112	32	0
+DL4	5088	14912	17632	3008	32	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 20)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	24.49%	34.69%	39.80%	1.02%	0.00%	0.00%
+DL2	14.50%	40.20%	37.73%	7.37%	0.21%	0.00%
+DL3	13.40%	38.84%	40.81%	6.85%	0.10%	0.00%
+DL4	12.51%	36.66%	43.35%	7.40%	0.08%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 21)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	512	2560	896	128	0	0
+DL2	10368	26368	15424	2800	16	0
+DL3	6832	17088	14832	2912	80	0
+DL4	5584	8768	5840	1792	80	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 21)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	12.50%	62.50%	21.88%	3.12%	0.00%	0.00%
+DL2	18.86%	47.96%	28.06%	5.09%	0.03%	0.00%
+DL3	16.37%	40.94%	35.53%	6.98%	0.19%	0.00%
+DL4	25.31%	39.74%	26.47%	8.12%	0.36%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 22)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	3072	8960	1280	0	0	0
+DL2	13760	25600	19840	1472	0	0
+DL3	8336	11760	13040	3760	96	0
+DL4	1968	3792	3664	2448	32	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 22)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	23.08%	67.31%	9.62%	0.00%	0.00%	0.00%
+DL2	22.68%	42.19%	32.70%	2.43%	0.00%	0.00%
+DL3	22.53%	31.79%	35.25%	10.16%	0.26%	0.00%
+DL4	16.53%	31.85%	30.78%	20.56%	0.27%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 23)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	10976	14592	2976	128	0	0
+DL2	13248	29824	15616	1520	16	0
+DL3	2528	7032	12760	4240	80	0
+DL4	800	2176	2704	1552	112	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 23)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	38.28%	50.89%	10.38%	0.45%	0.00%	0.00%
+DL2	22.00%	49.52%	25.93%	2.52%	0.03%	0.00%
+DL3	9.49%	26.40%	47.90%	15.92%	0.30%	0.00%
+DL4	10.89%	29.63%	36.82%	21.13%	1.53%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 24)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	12416	22400	12096	192	0	0
+DL2	13184	19200	16512	1568	32	0
+DL3	1424	5992	9272	2512	160	0
+DL4	240	2128	2704	768	80	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 24)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	26.36%	47.55%	25.68%	0.41%	0.00%	0.00%
+DL2	26.11%	38.02%	32.70%	3.11%	0.06%	0.00%
+DL3	7.36%	30.95%	47.89%	12.98%	0.83%	0.00%
+DL4	4.05%	35.95%	45.68%	12.97%	1.35%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 25)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	23328	19808	10048	64	0	0
+DL2	13184	19384	18440	1984	0	0
+DL3	1536	3168	6688	1392	80	0
+DL4	1152	816	1248	512	48	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 25)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	43.81%	37.20%	18.87%	0.12%	0.00%	0.00%
+DL2	24.88%	36.58%	34.80%	3.74%	0.00%	0.00%
+DL3	11.94%	24.63%	51.99%	10.82%	0.62%	0.00%
+DL4	30.51%	21.61%	33.05%	13.56%	1.27%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 26)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	22528	31744	12672	128	0	0
+DL2	6336	13760	16896	1568	32	0
+DL3	704	2432	7280	1936	32	0
+DL4	640	1344	2128	640	80	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 26)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	33.59%	47.33%	18.89%	0.19%	0.00%	0.00%
+DL2	16.42%	35.66%	43.78%	4.06%	0.08%	0.00%
+DL3	5.68%	19.64%	58.79%	15.63%	0.26%	0.00%
+DL4	13.25%	27.81%	44.04%	13.25%	1.66%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 27)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	17408	20224	6144	0	0	0
+DL2	8512	21048	19976	1088	0	0
+DL3	1520	5344	10176	4576	32	0
+DL4	720	1568	2560	1936	48	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 27)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	39.77%	46.20%	14.04%	0.00%	0.00%	0.00%
+DL2	16.81%	41.58%	39.46%	2.15%	0.00%	0.00%
+DL3	7.02%	24.69%	47.01%	21.14%	0.15%	0.00%
+DL4	10.54%	22.95%	37.47%	28.34%	0.70%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 28)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	19712	33024	21568	448	0	0
+DL2	3392	9216	20480	2112	0	0
+DL3	384	1040	6528	2048	32	0
+DL4	64	240	1728	864	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 28)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	26.37%	44.18%	28.85%	0.60%	0.00%	0.00%
+DL2	9.64%	26.18%	58.18%	6.00%	0.00%	0.00%
+DL3	3.83%	10.37%	65.07%	20.41%	0.32%	0.00%
+DL4	2.21%	8.29%	59.67%	29.83%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 29)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	18368	32832	14080	256	0	0
+DL2	4800	13248	18880	1952	32	0
+DL3	1296	1752	7384	2160	64	0
+DL4	1072	992	2480	1200	32	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 29)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	28.03%	50.10%	21.48%	0.39%	0.00%	0.00%
+DL2	12.34%	34.05%	48.52%	5.02%	0.08%	0.00%
+DL3	10.24%	13.84%	58.34%	17.07%	0.51%	0.00%
+DL4	18.56%	17.17%	42.94%	20.78%	0.55%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 30)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	8704	15616	2432	128	0	0
+DL2	6976	26424	20936	2432	0	0
+DL3	1552	7792	16400	4480	32	0
+DL4	688	1936	4464	1888	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 30)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	32.38%	58.10%	9.05%	0.48%	0.00%	0.00%
+DL2	12.29%	46.55%	36.88%	4.28%	0.00%	0.00%
+DL3	5.13%	25.75%	54.20%	14.81%	0.11%	0.00%
+DL4	7.66%	21.57%	49.73%	21.03%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 31)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	9984	14336	7104	64	0	0
+DL2	12608	25912	22472	1984	0	0
+DL3	1872	6864	10352	2896	16	0
+DL4	560	1712	2768	1376	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 31)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	31.71%	45.53%	22.56%	0.20%	0.00%	0.00%
+DL2	20.02%	41.15%	35.68%	3.15%	0.00%	0.00%
+DL3	8.51%	31.20%	47.05%	13.16%	0.07%	0.00%
+DL4	8.73%	26.68%	43.14%	21.45%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 32)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	17408	23680	17920	128	0	0
+DL2	9024	14720	18048	2160	16	0
+DL3	1568	3536	6992	2304	0	0
+DL4	928	1456	2288	656	48	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 32)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	29.44%	40.04%	30.30%	0.22%	0.00%	0.00%
+DL2	20.52%	33.48%	41.05%	4.91%	0.04%	0.00%
+DL3	10.89%	24.56%	48.56%	16.00%	0.00%	0.00%
+DL4	17.26%	27.08%	42.56%	12.20%	0.89%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 33)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	13568	34688	15040	192	0	0
+DL2	6592	16576	20032	1664	0	0
+DL3	1344	2784	5296	1280	0	0
+DL4	768	1376	1296	384	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 33)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	21.37%	54.64%	23.69%	0.30%	0.00%	0.00%
+DL2	14.69%	36.95%	44.65%	3.71%	0.00%	0.00%
+DL3	12.56%	26.01%	49.48%	11.96%	0.00%	0.00%
+DL4	20.08%	35.98%	33.89%	10.04%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 34)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	24512	33544	8896	120	0	0
+DL2	6144	16952	13640	1088	0	0
+DL3	864	3904	7408	1712	0	0
+DL4	672	1408	1488	512	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 34)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	36.55%	50.01%	13.26%	0.18%	0.00%	0.00%
+DL2	16.24%	44.82%	36.06%	2.88%	0.00%	0.00%
+DL3	6.22%	28.11%	53.34%	12.33%	0.00%	0.00%
+DL4	16.41%	34.38%	36.33%	12.50%	0.39%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 35)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	9472	22536	4792	64	0	0
+DL2	10368	24504	24968	896	0	0
+DL3	768	4568	12472	2880	32	0
+DL4	128	1760	1808	832	32	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 35)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	25.69%	61.13%	13.00%	0.17%	0.00%	0.00%
+DL2	17.07%	40.35%	41.11%	1.48%	0.00%	0.00%
+DL3	3.71%	22.05%	60.19%	13.90%	0.15%	0.00%
+DL4	2.81%	38.60%	39.65%	18.25%	0.70%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 36)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	16384	40768	20352	64	0	0
+DL2	2752	11456	14208	1344	0	0
+DL3	688	2560	7456	1328	0	0
+DL4	656	1344	1120	400	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 36)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	21.12%	52.56%	26.24%	0.08%	0.00%	0.00%
+DL2	9.25%	38.49%	47.74%	4.52%	0.00%	0.00%
+DL3	5.72%	21.28%	61.97%	11.04%	0.00%	0.00%
+DL4	18.64%	38.18%	31.82%	11.36%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 37)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	6144	34560	18880	64	0	0
+DL2	1984	17728	26688	2368	0	0
+DL3	48	2224	8000	1680	16	0
+DL4	16	272	1600	592	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 37)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	10.30%	57.94%	31.65%	0.11%	0.00%	0.00%
+DL2	4.07%	36.35%	54.72%	4.86%	0.00%	0.00%
+DL3	0.40%	18.58%	66.84%	14.04%	0.13%	0.00%
+DL4	0.64%	10.90%	64.10%	23.72%	0.64%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 38)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	1280	6464	4864	192	0	0
+DL2	3904	26688	26004	1252	8	0
+DL3	2208	17608	16696	1504	0	0
+DL4	480	5744	6928	1024	32	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 38)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	10.00%	50.50%	38.00%	1.50%	0.00%	0.00%
+DL2	6.75%	46.13%	44.95%	2.16%	0.01%	0.00%
+DL3	5.81%	46.32%	43.92%	3.96%	0.00%	0.00%
+DL4	3.38%	40.43%	48.76%	7.21%	0.23%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 39)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	2304	5120	4416	176	16	0
+DL2	7864	29056	20552	2368	0	0
+DL3	2640	16344	15736	3216	16	0
+DL4	752	5408	5008	1824	60	4
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 39)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	19.15%	42.55%	36.70%	1.46%	0.13%	0.00%
+DL2	13.14%	48.56%	34.34%	3.96%	0.00%	0.00%
+DL3	6.96%	43.06%	41.46%	8.47%	0.04%	0.00%
+DL4	5.76%	41.42%	38.36%	13.97%	0.46%	0.03%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 40)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	1792	7040	640	0	0	0
+DL2	12864	28672	21504	1648	16	0
+DL3	7664	14304	14096	2912	0	0
+DL4	1488	3808	2992	1376	64	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 40)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	18.92%	74.32%	6.76%	0.00%	0.00%	0.00%
+DL2	19.88%	44.31%	33.23%	2.55%	0.02%	0.00%
+DL3	19.66%	36.70%	36.17%	7.47%	0.00%	0.00%
+DL4	15.30%	39.14%	30.76%	14.14%	0.66%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 41)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	5120	8448	2560	0	0	0
+DL2	15424	23552	21568	1712	16	0
+DL3	8608	12744	13224	3072	16	0
+DL4	800	2416	2464	1136	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 41)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	31.75%	52.38%	15.87%	0.00%	0.00%	0.00%
+DL2	24.77%	37.82%	34.64%	2.75%	0.03%	0.00%
+DL3	22.85%	33.84%	35.11%	8.16%	0.04%	0.00%
+DL4	11.74%	35.45%	36.15%	16.67%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 42)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	10304	15616	6976	128	0	0
+DL2	17312	18760	21016	1840	16	0
+DL3	4048	6792	12600	2016	32	0
+DL4	512	1840	2656	416	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 42)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	31.20%	47.29%	21.12%	0.39%	0.00%	0.00%
+DL2	29.37%	31.83%	35.65%	3.12%	0.03%	0.00%
+DL3	15.88%	26.65%	49.44%	7.91%	0.13%	0.00%
+DL4	9.44%	33.92%	48.97%	7.67%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 43)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	12032	31232	10368	128	0	0
+DL2	13248	20800	17856	1328	16	0
+DL3	2080	3744	5600	1088	16	0
+DL4	800	1312	992	224	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 43)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	22.38%	58.10%	19.29%	0.24%	0.00%	0.00%
+DL2	24.88%	39.06%	33.53%	2.49%	0.03%	0.00%
+DL3	16.60%	29.89%	44.70%	8.68%	0.13%	0.00%
+DL4	23.92%	39.23%	29.67%	6.70%	0.48%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 44)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	26880	35712	13376	320	0	0
+DL2	4288	9656	17352	1728	0	0
+DL3	1120	1936	5136	1760	0	0
+DL4	928	1008	1264	400	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 44)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	35.23%	46.81%	17.53%	0.42%	0.00%	0.00%
+DL2	12.98%	29.24%	52.54%	5.23%	0.00%	0.00%
+DL3	11.25%	19.45%	51.61%	17.68%	0.00%	0.00%
+DL4	25.66%	27.88%	34.96%	11.06%	0.44%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 45)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	23808	19200	2304	0	0	0
+DL2	9216	21240	24136	1664	0	0
+DL3	1520	4144	8816	2368	64	0
+DL4	784	1296	1360	944	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 45)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	52.54%	42.37%	5.08%	0.00%	0.00%	0.00%
+DL2	16.38%	37.76%	42.90%	2.96%	0.00%	0.00%
+DL3	8.99%	24.50%	52.13%	14.00%	0.38%	0.00%
+DL4	17.82%	29.45%	30.91%	21.45%	0.36%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 46)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	10240	46848	17856	64	0	0
+DL2	1792	12864	18944	1984	0	0
+DL3	256	1600	5792	2160	16	0
+DL4	0	384	1248	816	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 46)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	13.65%	62.46%	23.81%	0.09%	0.00%	0.00%
+DL2	5.04%	36.15%	53.24%	5.58%	0.00%	0.00%
+DL3	2.61%	16.29%	58.96%	21.99%	0.16%	0.00%
+DL4	0.00%	15.58%	50.65%	33.12%	0.65%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 47)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	17792	43520	12800	128	0	0
+DL2	2880	14208	15296	1280	0	0
+DL3	320	2648	6856	1344	0	0
+DL4	256	1440	1536	576	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 47)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	23.97%	58.62%	17.24%	0.17%	0.00%	0.00%
+DL2	8.56%	42.21%	45.44%	3.80%	0.00%	0.00%
+DL3	2.87%	23.71%	61.39%	12.03%	0.00%	0.00%
+DL4	6.72%	37.82%	40.34%	15.13%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 48)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	19704	19720	1216	64	0	0
+DL2	5376	26936	18632	1856	0	0
+DL3	1552	6704	12608	2256	0	0
+DL4	816	1680	2688	1072	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 48)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	48.41%	48.45%	2.99%	0.16%	0.00%	0.00%
+DL2	10.18%	51.02%	35.29%	3.52%	0.00%	0.00%
+DL3	6.71%	29.00%	54.53%	9.76%	0.00%	0.00%
+DL4	13.04%	26.85%	42.97%	17.14%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 49)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	9856	21376	4288	64	0	0
+DL2	17600	21824	19648	1216	0	0
+DL3	3152	5832	9304	2400	16	0
+DL4	944	1712	2544	1104	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 49)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	27.70%	60.07%	12.05%	0.18%	0.00%	0.00%
+DL2	29.19%	36.20%	32.59%	2.02%	0.00%	0.00%
+DL3	15.22%	28.17%	44.94%	11.59%	0.08%	0.00%
+DL4	14.97%	27.16%	40.36%	17.51%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 50)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	20224	24832	14144	192	0	0
+DL2	14400	12928	16512	1728	0	0
+DL3	2080	3056	7136	1440	16	0
+DL4	928	1040	1824	400	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 50)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	34.05%	41.81%	23.81%	0.32%	0.00%	0.00%
+DL2	31.60%	28.37%	36.24%	3.79%	0.00%	0.00%
+DL3	15.15%	22.26%	51.98%	10.49%	0.12%	0.00%
+DL4	22.14%	24.81%	43.51%	9.54%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 51)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	20736	35328	15360	256	0	0
+DL2	7552	11776	16000	1232	48	0
+DL3	1568	2672	4816	1840	48	0
+DL4	1184	784	1136	544	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 51)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	28.93%	49.29%	21.43%	0.36%	0.00%	0.00%
+DL2	20.63%	32.17%	43.71%	3.37%	0.13%	0.00%
+DL3	14.33%	24.42%	44.01%	16.81%	0.44%	0.00%
+DL4	32.46%	21.49%	31.14%	14.91%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 52)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	30464	36096	7872	64	0	0
+DL2	6592	12416	14208	1024	0	0
+DL3	1264	2448	5312	1456	0	0
+DL4	848	1008	1152	640	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 52)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	40.89%	48.45%	10.57%	0.09%	0.00%	0.00%
+DL2	19.25%	36.26%	41.50%	2.99%	0.00%	0.00%
+DL3	12.06%	23.36%	50.69%	13.89%	0.00%	0.00%
+DL4	23.14%	27.51%	31.44%	17.47%	0.44%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 53)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	20736	30208	6912	0	0	0
+DL2	6400	17536	20672	1216	0	0
+DL3	2016	3616	7152	2320	0	0
+DL4	1056	864	1488	672	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 53)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	35.84%	52.21%	11.95%	0.00%	0.00%	0.00%
+DL2	13.97%	38.27%	45.11%	2.65%	0.00%	0.00%
+DL3	13.35%	23.94%	47.35%	15.36%	0.00%	0.00%
+DL4	25.78%	21.09%	36.33%	16.41%	0.39%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 54)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	26384	44736	14848	288	16	0
+DL2	2688	6648	13832	1664	0	0
+DL3	624	2016	4112	1648	0	0
+DL4	528	1376	944	528	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 54)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	30.58%	51.85%	17.21%	0.33%	0.02%	0.00%
+DL2	10.82%	26.77%	55.70%	6.70%	0.00%	0.00%
+DL3	7.43%	24.00%	48.95%	19.62%	0.00%	0.00%
+DL4	15.64%	40.76%	27.96%	15.64%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 55)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	6656	35840	21632	384	0	0
+DL2	7360	18560	19712	2176	0	0
+DL3	320	1088	5200	2288	0	0
+DL4	0	64	816	784	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 55)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	10.32%	55.56%	33.53%	0.60%	0.00%	0.00%
+DL2	15.39%	38.82%	41.23%	4.55%	0.00%	0.00%
+DL3	3.60%	12.23%	58.45%	25.72%	0.00%	0.00%
+DL4	0.00%	3.85%	49.04%	47.12%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 56)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	4224	5120	2240	192	0	0
+DL2	5696	28032	16464	2080	16	0
+DL3	4192	19152	18880	2448	32	0
+DL4	672	5296	6848	1296	0	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 56)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	35.87%	43.48%	19.02%	1.63%	0.00%	0.00%
+DL2	10.89%	53.61%	31.49%	3.98%	0.03%	0.00%
+DL3	9.38%	42.84%	42.23%	5.48%	0.07%	0.00%
+DL4	4.76%	37.53%	48.53%	9.18%	0.00%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 57)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	4864	11264	2176	128	0	0
+DL2	8832	25600	23168	1536	0	0
+DL3	4656	11360	16032	3040	16	0
+DL4	1488	3232	4192	1280	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 57)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	26.39%	61.11%	11.81%	0.69%	0.00%	0.00%
+DL2	14.94%	43.29%	39.18%	2.60%	0.00%	0.00%
+DL3	13.26%	32.36%	45.67%	8.66%	0.05%	0.00%
+DL4	14.58%	31.66%	41.07%	12.54%	0.16%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 58)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	16384	16640	3584	0	0	0
+DL2	10432	27648	21184	1344	0	0
+DL3	1740	6336	8884	2896	0	0
+DL4	620	1792	1940	1392	64	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 58)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	44.76%	45.45%	9.79%	0.00%	0.00%	0.00%
+DL2	17.21%	45.62%	34.95%	2.22%	0.00%	0.00%
+DL3	8.76%	31.91%	44.74%	14.59%	0.00%	0.00%
+DL4	10.67%	30.85%	33.40%	23.97%	1.10%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 59)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	22848	24192	9472	320	0	0
+DL2	11056	17472	17168	3008	0	0
+DL3	1632	3200	5984	2240	16	0
+DL4	464	1472	1808	512	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 59)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	40.20%	42.57%	16.67%	0.56%	0.00%	0.00%
+DL2	22.70%	35.87%	35.25%	6.18%	0.00%	0.00%
+DL3	12.48%	24.48%	45.78%	17.14%	0.12%	0.00%
+DL4	10.86%	34.46%	42.32%	11.99%	0.37%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+
+Tabela Comparativa das Profundidades - Valores Absolutos (FRAME 60)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	23680	24192	10752	0	0	0
+DL2	14512	18568	14472	2112	0	0
+DL3	704	2920	4856	1936	0	0
+DL4	512	1424	1168	1056	16	0
+DL5	0	0	0	0	0	0
+Tabela Comparativa das Profundidades - Porcentagens (FRAME 60)
+	AV1
+HEVC	DL0	DL1	DL2	DL3	DL4	DL5
+DL1	40.39%	41.27%	18.34%	0.00%	0.00%	0.00%
+DL2	29.22%	37.39%	29.14%	4.25%	0.00%	0.00%
+DL3	6.76%	28.03%	46.62%	18.59%	0.00%	0.00%
+DL4	12.26%	34.10%	27.97%	25.29%	0.38%	0.00%
+DL5	-nan%	-nan%	-nan%	-nan%	-nan%	-nan%
+
+

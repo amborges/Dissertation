@@ -1,0 +1,17 @@
+objects/SyntaxElementParser.r.o: \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/SyntaxElementParser.cpp \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/SyntaxElementParser.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/TDecConformance.h
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/SyntaxElementParser.cpp :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/SyntaxElementParser.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/TDecConformance.h :

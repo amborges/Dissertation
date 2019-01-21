@@ -1,0 +1,15 @@
+objects/NALwrite.d.o: \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :

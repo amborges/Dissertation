@@ -1,0 +1,23 @@
+objects/TAppDecCfg.d.o: \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.cpp \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TAppCommon/program_options_lite.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRectangle.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/ContextTables.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/Debug.h
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.cpp :
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TAppCommon/program_options_lite.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRectangle.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/ContextTables.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/Debug.h :

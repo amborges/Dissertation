@@ -1,0 +1,5 @@
+objects/program_options_lite.r.o: \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TAppCommon/../../../../source/Lib/TAppCommon/program_options_lite.cpp \
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TAppCommon/../../../../source/Lib/TAppCommon/program_options_lite.h
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TAppCommon/../../../../source/Lib/TAppCommon/program_options_lite.cpp :
+ /home/alex/GACI/Full/HM-16.20/build/linux/lib/TAppCommon/../../../../source/Lib/TAppCommon/program_options_lite.h :

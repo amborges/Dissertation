@@ -1,0 +1,11 @@
+objects/TAppMctsExtCfg.r.o: \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppMCTSExtractor/../../../../source/App/TAppMCTSExtractor/TAppMctsExtCfg.cpp \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppMCTSExtractor/../../../../source/App/TAppMCTSExtractor/TAppMctsExtCfg.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppMCTSExtractor/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppMCTSExtractor/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppMCTSExtractor/../../../../source/Lib/TAppCommon/program_options_lite.h
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppMCTSExtractor/../../../../source/App/TAppMCTSExtractor/TAppMctsExtCfg.cpp :
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppMCTSExtractor/../../../../source/App/TAppMCTSExtractor/TAppMctsExtCfg.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppMCTSExtractor/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppMCTSExtractor/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/alex/GACI/Full/HM-16.20/build/linux/app/TAppMCTSExtractor/../../../../source/Lib/TAppCommon/program_options_lite.h :
